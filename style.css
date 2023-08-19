@@ -21,6 +21,6 @@ main{
 }
 .section-3{
     height: 100%;
-    background-color: red;
+    background-color: blue;
     width: calc(100%/3);
 }
